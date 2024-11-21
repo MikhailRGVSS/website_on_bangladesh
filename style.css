@@ -21,7 +21,7 @@ body {
     align-items: center;
     gap: 20px;
 }
-#content {
+.content {
     display: flex;
     align-items: center; 
     justify-content: center; 
@@ -36,7 +36,7 @@ body {
     font-size: larger;
 }
 
-#class {
+#image {
     width: 1000px;
     max-width: 50%;
     height: auto;
