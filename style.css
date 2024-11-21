@@ -114,7 +114,7 @@ nav ul li a:hover {
 }
 
 .university-content p {
-    font-size: 1.875em; 
+    font-size: 2.2em; 
     line-height: 1.6;
     color: #555;
 }
@@ -169,4 +169,9 @@ nav ul li a:hover {
 
 .citation a:hover {
     text-decoration: underline;
+}
+
+#hugeImage {
+    max-width: 20%;
+    height: auto;
 }
