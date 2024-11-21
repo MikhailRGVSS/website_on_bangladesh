@@ -1,5 +1,4 @@
 #title {
-
     font-size: xx-large;
     color:white;
 }
@@ -31,8 +30,8 @@ body {
     flex: 1; 
     max-width: 50%; 
     vertical-align: middle; 
-    font-size: x-large;
-    line-height: 1.6;
+    font-size: 22px;
+    line-height: 2;
 }
 
 .image {
