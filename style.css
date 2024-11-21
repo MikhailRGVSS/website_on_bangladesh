@@ -3,7 +3,7 @@
     font-size: xx-large;
     color:white;
 }
-#banner_image {
+.banner_image {
     display: flex;
     width: 100%;
     background-image: 
@@ -36,8 +36,8 @@ body {
     font-size: larger;
 }
 
-#image {
-    width: 1000px;
+.image {
+    width: 700px;
     max-width: 50%;
     height: auto;
 }
