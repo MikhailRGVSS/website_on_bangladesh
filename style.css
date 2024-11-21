@@ -21,7 +21,7 @@ body {
     align-items: center;
     gap: 20px;
 }
-#contentFirstPage {
+#content {
     display: flex;
     align-items: center; 
     justify-content: center; 
@@ -36,8 +36,8 @@ body {
     font-size: larger;
 }
 
-#map {
-    width: 300px;
+#class {
+    width: 1000px;
     max-width: 50%;
     height: auto;
 }
