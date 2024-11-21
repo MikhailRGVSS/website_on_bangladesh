@@ -14,14 +14,12 @@
     align-items: center;
     justify-content: center;
 }
-#map {
-    width: 300px;
-}
 body {
     align-items: center;
     gap: 20px;
 }
 .content {
+    flex-wrap: wrap;
     display: flex;
     align-items: center; 
     justify-content: center; 
@@ -33,11 +31,11 @@ body {
     flex: 1; 
     max-width: 50%; 
     vertical-align: middle; 
-    font-size: larger;
+    font-size: x-large;
+    line-height: 1.6;
 }
 
 .image {
-    width: 700px;
     max-width: 50%;
     height: auto;
 }
