@@ -1,4 +1,67 @@
 #title {
+
     font-size: xx-large;
-    color:black;
+    color:white;
+}
+#banner_image {
+    display: flex;
+    width: 100%;
+    background-image: 
+    linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+    url("https://investbangladesh.co/wp-content/uploads/2024/04/hero-bangladesh.jpg");
+    height: 90vh;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+#map {
+    width: 300px;
+}
+body {
+    align-items: center;
+    gap: 20px;
+}
+#contentFirstPage {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px;
+    gap: 20px;
+}
+
+.bodyParagraph {
+    flex: 1; 
+    max-width: 50%; 
+    vertical-align: middle; 
+    font-size: larger;
+}
+
+#map {
+    width: 300px;
+    max-width: 50%;
+    height: auto;
+}
+
+header {
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+nav ul li{
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white; 
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ddd;  
+    text-decoration: underline;
 }
