@@ -1,5 +1,5 @@
 #title {
-    font-size: xx-large;
+    font-size: 100px;
     color:white;
 }
 .banner_image {
@@ -30,7 +30,7 @@ body {
     flex: 1; 
     max-width: 50%; 
     vertical-align: middle; 
-    font-size: 22px;
+    font-size: 40px;
     line-height: 2;
 }
 
