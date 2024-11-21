@@ -34,6 +34,15 @@ body {
     line-height: 2;
 }
 
+.bodyParagraph {
+    flex: 1; 
+    max-width: 50%; 
+    vertical-align: middle; 
+    justify-content: center;
+    font-size: 30px;
+    line-height: 2;
+}
+
 .image {
     max-width: 50%;
     height: auto;
@@ -62,10 +71,6 @@ nav ul li a:hover {
     color: #ddd;  
     text-decoration: underline;
 }
-
-
-
-
 
 .university-container {
     display: flex;
@@ -100,13 +105,13 @@ nav ul li a:hover {
 }
 
 .university-content h2 {
-    font-size: 20px;
+    font-size: 40px;
     margin-bottom: 10px;
     color: #000000; 
 }
 
 .university-content p {
-    font-size: 10px;
+    font-size: 30px;
     line-height: 1.6;
     color: #555;
 }
